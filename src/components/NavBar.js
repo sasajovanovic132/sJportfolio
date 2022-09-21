@@ -1,7 +1,7 @@
 import "./NavBarStyles.css";
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import {FaTimes,FaBars} from "react-icons/fa";
+import {FaTimes} from "react-icons/fa";
 import { faChessKnight } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 //<FontAwesomeIcon size="lg" style={{color:"#fff"}} icon={faChessKing} />
